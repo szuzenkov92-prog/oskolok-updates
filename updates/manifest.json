@@ -1,18 +1,18 @@
 {
- "patch_version": 4,
+ "patch_version": 5,
  "base_version_code": 6,
  "min_apk_version_code": 6,
- "version_name": "0.1.5 · патч 4",
- "notes": "Вася заговорил: все 30 его реплик с голосом. Пролог-комикс теперь с голосом рассказчика. Реплики с именем ростка звучат голосом только при имени «Плант», при поливе — при любом имени. Плюс всё из патчей 2–3: пролог, голос Иигоря, «Громкость голоса».",
- "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p4/oskolok_b6-p4.pck",
- "size": 6443532,
- "sha256": "9f8074dca49f358dcba2ebcc96ec5bcb693bd0d876483bac306195b6a58a5c66",
+ "version_name": "0.1.5 · патч 5",
+ "notes": "Облачко реплики над говорящим. Начало 0.2: после конца 0.1 открывается южный шлюз и миссия «Последствия сигнала». Территория за осколком, сбор хлама, сетка построек. После разведки сигнала можно поставить энергогенератор; казарма — только после генератора. Укреплённые сохранения (атомарная запись, .bak, проверка позиций и клеток). Старые сохранения 0.1.x работают.",
+ "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p5/oskolok_b6-p5.pck",
+ "size": 6729076,
+ "sha256": "0a64262da6b85e29b069d775360668bd08a3203da9dcd9f5ced7b2a8bfd0889e",
  "mirrors": [],
  "desktop": {
-  "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p4/oskolok_b6-p4_desktop.pck",
-  "size": 6443532,
-  "sha256": "9f8074dca49f358dcba2ebcc96ec5bcb693bd0d876483bac306195b6a58a5c66"
+  "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p5/oskolok_b6-p5_desktop.pck",
+  "size": 6729076,
+  "sha256": "0a64262da6b85e29b069d775360668bd08a3203da9dcd9f5ced7b2a8bfd0889e"
  },
  "full_apk_url": "",
- "created": "2026-11-19T16:20:06+0700"
+ "created": "2026-11-19T17:41:09+0700"
 }
