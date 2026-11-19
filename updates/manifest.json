@@ -1,14 +1,18 @@
 {
- "patch_version": 0,
+ "patch_version": 1,
  "base_version_code": 6,
  "min_apk_version_code": 6,
- "version_name": "0.1.5",
- "notes": "Полная версия 0.1.5 (база для патчей)",
- "url": "",
- "size": 0,
- "sha256": "",
+ "version_name": "0.1.5 · патч 1",
+ "notes": "Тестовый патч обновлятора: в титрах меню «0.1.5-p1». Ничего в игре не меняет.",
+ "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p1/oskolok_b6-p1.pck",
+ "size": 4324,
+ "sha256": "2e12a1f0cdab37fb84399b023301d48d5c97d4947d6990c8212ead7f43dec431",
  "mirrors": [],
- "desktop": {},
+ "desktop": {
+  "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p1/oskolok_b6-p1_desktop.pck",
+  "size": 4324,
+  "sha256": "2e12a1f0cdab37fb84399b023301d48d5c97d4947d6990c8212ead7f43dec431"
+ },
  "full_apk_url": "",
- "created": "2026-11-19T12:52:34+0700"
+ "created": "2026-11-19T12:54:52+0700"
 }
