@@ -1,18 +1,18 @@
 {
- "patch_version": 6,
+ "patch_version": 7,
  "base_version_code": 6,
  "min_apk_version_code": 6,
- "version_name": "0.1.5 · патч 6",
- "notes": "Фикс мерцания пола на Android (земля больше не пересекает пол отсека). Тосты без дублей и ниже баннера базы. Миссия 2 «Всё в дело»: мастерская, казарма I→II, заброшенный форпост Директората.",
- "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p6/oskolok_b6-p6.pck",
- "size": 6744304,
- "sha256": "99b88beccd3f2202c738a2e8eea40387c391f61cbd963691c30c3b136ac80964",
+ "version_name": "0.1.5 · патч 7",
+ "notes": "Cel-материалы казармы и форпоста (графит, красный только полосами). Залит пол в тамбуре шлюза — дыра после патча 6 закрыта.",
+ "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p7/oskolok_b6-p7.pck",
+ "size": 6746512,
+ "sha256": "16f3c26f6566d8386944b92ab7bd924472e5f78c43c9e23ba271bb854069a3a5",
  "mirrors": [],
  "desktop": {
-  "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p6/oskolok_b6-p6_desktop.pck",
-  "size": 6744304,
-  "sha256": "99b88beccd3f2202c738a2e8eea40387c391f61cbd963691c30c3b136ac80964"
+  "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p7/oskolok_b6-p7_desktop.pck",
+  "size": 6746512,
+  "sha256": "16f3c26f6566d8386944b92ab7bd924472e5f78c43c9e23ba271bb854069a3a5"
  },
  "full_apk_url": "",
- "created": "2026-11-19T18:17:44+0700"
+ "created": "2026-11-19T18:53:03+0700"
 }
