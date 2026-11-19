@@ -1,18 +1,18 @@
 {
- "patch_version": 7,
+ "patch_version": 8,
  "base_version_code": 6,
  "min_apk_version_code": 6,
- "version_name": "0.1.5 · патч 7",
- "notes": "Cel-материалы казармы и форпоста (графит, красный только полосами). Залит пол в тамбуре шлюза — дыра после патча 6 закрыта.",
- "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p7/oskolok_b6-p7.pck",
- "size": 6746512,
- "sha256": "16f3c26f6566d8386944b92ab7bd924472e5f78c43c9e23ba271bb854069a3a5",
+ "version_name": "0.1.5 · патч 8",
+ "notes": "Живая казарма: подход с репликой Иигоря и действие «Перевести дух» (восстановление энергии). Тонкая красная полоса на крыле казармы II. Озвучка новых реплик 0.2 не входила — нет локального пайплайна того же голоса.",
+ "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p8/oskolok_b6-p8.pck",
+ "size": 6749952,
+ "sha256": "1dd83271efbe813bece72426eff30fa94dc917fbcd495ef1c577182f4a6e0d34",
  "mirrors": [],
  "desktop": {
-  "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p7/oskolok_b6-p7_desktop.pck",
-  "size": 6746512,
-  "sha256": "16f3c26f6566d8386944b92ab7bd924472e5f78c43c9e23ba271bb854069a3a5"
+  "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p8/oskolok_b6-p8_desktop.pck",
+  "size": 6749952,
+  "sha256": "1dd83271efbe813bece72426eff30fa94dc917fbcd495ef1c577182f4a6e0d34"
  },
  "full_apk_url": "",
- "created": "2026-11-19T18:53:03+0700"
+ "created": "2026-11-19T21:11:18+0700"
 }
