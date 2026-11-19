@@ -1,18 +1,18 @@
 {
- "patch_version": 5,
+ "patch_version": 6,
  "base_version_code": 6,
  "min_apk_version_code": 6,
- "version_name": "0.1.5 · патч 5",
- "notes": "Облачко реплики над говорящим. Начало 0.2: после конца 0.1 открывается южный шлюз и миссия «Последствия сигнала». Территория за осколком, сбор хлама, сетка построек. После разведки сигнала можно поставить энергогенератор; казарма — только после генератора. Укреплённые сохранения (атомарная запись, .bak, проверка позиций и клеток). Старые сохранения 0.1.x работают.",
- "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p5/oskolok_b6-p5.pck",
- "size": 6729076,
- "sha256": "0a64262da6b85e29b069d775360668bd08a3203da9dcd9f5ced7b2a8bfd0889e",
+ "version_name": "0.1.5 · патч 6",
+ "notes": "Фикс мерцания пола на Android (земля больше не пересекает пол отсека). Тосты без дублей и ниже баннера базы. Миссия 2 «Всё в дело»: мастерская, казарма I→II, заброшенный форпост Директората.",
+ "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p6/oskolok_b6-p6.pck",
+ "size": 6744304,
+ "sha256": "99b88beccd3f2202c738a2e8eea40387c391f61cbd963691c30c3b136ac80964",
  "mirrors": [],
  "desktop": {
-  "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p5/oskolok_b6-p5_desktop.pck",
-  "size": 6729076,
-  "sha256": "0a64262da6b85e29b069d775360668bd08a3203da9dcd9f5ced7b2a8bfd0889e"
+  "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p6/oskolok_b6-p6_desktop.pck",
+  "size": 6744304,
+  "sha256": "99b88beccd3f2202c738a2e8eea40387c391f61cbd963691c30c3b136ac80964"
  },
  "full_apk_url": "",
- "created": "2026-11-19T17:41:09+0700"
+ "created": "2026-11-19T18:17:44+0700"
 }
