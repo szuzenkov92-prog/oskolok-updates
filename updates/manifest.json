@@ -1,18 +1,18 @@
 {
- "patch_version": 8,
+ "patch_version": 9,
  "base_version_code": 6,
  "min_apk_version_code": 6,
- "version_name": "0.1.5 · патч 8",
- "notes": "Живая казарма: подход с репликой Иигоря и действие «Перевести дух» (восстановление энергии). Тонкая красная полоса на крыле казармы II. Озвучка новых реплик 0.2 не входила — нет локального пайплайна того же голоса.",
- "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p8/oskolok_b6-p8.pck",
- "size": 6749952,
- "sha256": "1dd83271efbe813bece72426eff30fa94dc917fbcd495ef1c577182f4a6e0d34",
+ "version_name": "0.1.5 · патч 9",
+ "notes": "Хотфикс мастерской: «Восстановить мастерскую» срабатывает сбоку, Иигорь больше не перехватывает действие. Если компоненты уже собраны, осмотр мастерской переводит квест дальше.",
+ "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p9/oskolok_b6-p9.pck",
+ "size": 6750448,
+ "sha256": "a29b7e80403f5ed292ce4230bd82794d993a4fe89dfe04ed3ca46e6977a64a3a",
  "mirrors": [],
  "desktop": {
-  "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p8/oskolok_b6-p8_desktop.pck",
-  "size": 6749952,
-  "sha256": "1dd83271efbe813bece72426eff30fa94dc917fbcd495ef1c577182f4a6e0d34"
+  "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p9/oskolok_b6-p9_desktop.pck",
+  "size": 6750448,
+  "sha256": "a29b7e80403f5ed292ce4230bd82794d993a4fe89dfe04ed3ca46e6977a64a3a"
  },
  "full_apk_url": "",
- "created": "2026-11-19T21:11:18+0700"
+ "created": "2026-11-19T23:09:45+0700"
 }
