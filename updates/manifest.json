@@ -1,18 +1,18 @@
 {
- "patch_version": 2,
+ "patch_version": 3,
  "base_version_code": 6,
  "min_apk_version_code": 6,
- "version_name": "0.1.5 · патч 2",
- "notes": "Пролог-комикс «Предыстория» при новой игре (с музыкой и кнопкой «Пропустить»). Иигорь заговорил: 21 реплика с озвучкой. В паузе — «Громкость голоса». На экране «Обновления» номер патча больше не дублируется.",
- "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p2/oskolok_b6-p2.pck",
- "size": 3163184,
- "sha256": "4cf2944b958ecefb4ef3d77e7e6a9bd4186f42e9b3fbb3af547ee443134dff78",
+ "version_name": "0.1.5 · патч 3",
+ "notes": "Иигорь озвучен полностью: ещё 19 реплик голосом (росток, терминал, итог дня, разговоры, полив) — теперь все, кроме молчаливого «…». Реплика с именем ростка звучит голосом, только если росток назван «Плант». Плюс всё из патча 2: пролог-комикс, «Громкость голоса».",
+ "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p3/oskolok_b6-p3.pck",
+ "size": 4517424,
+ "sha256": "674add2ac69220557714deb8dcbdd686d86f9a0d70dad55f1fe80301cdb143c9",
  "mirrors": [],
  "desktop": {
-  "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p2/oskolok_b6-p2_desktop.pck",
-  "size": 3163184,
-  "sha256": "4cf2944b958ecefb4ef3d77e7e6a9bd4186f42e9b3fbb3af547ee443134dff78"
+  "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p3/oskolok_b6-p3_desktop.pck",
+  "size": 4517424,
+  "sha256": "674add2ac69220557714deb8dcbdd686d86f9a0d70dad55f1fe80301cdb143c9"
  },
  "full_apk_url": "",
- "created": "2026-11-19T15:24:16+0700"
+ "created": "2026-11-19T15:42:18+0700"
 }
