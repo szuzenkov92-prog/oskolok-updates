@@ -1,18 +1,18 @@
 {
- "patch_version": 3,
+ "patch_version": 4,
  "base_version_code": 6,
  "min_apk_version_code": 6,
- "version_name": "0.1.5 · патч 3",
- "notes": "Иигорь озвучен полностью: ещё 19 реплик голосом (росток, терминал, итог дня, разговоры, полив) — теперь все, кроме молчаливого «…». Реплика с именем ростка звучит голосом, только если росток назван «Плант». Плюс всё из патча 2: пролог-комикс, «Громкость голоса».",
- "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p3/oskolok_b6-p3.pck",
- "size": 4517424,
- "sha256": "674add2ac69220557714deb8dcbdd686d86f9a0d70dad55f1fe80301cdb143c9",
+ "version_name": "0.1.5 · патч 4",
+ "notes": "Вася заговорил: все 30 его реплик с голосом. Пролог-комикс теперь с голосом рассказчика. Реплики с именем ростка звучат голосом только при имени «Плант», при поливе — при любом имени. Плюс всё из патчей 2–3: пролог, голос Иигоря, «Громкость голоса».",
+ "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p4/oskolok_b6-p4.pck",
+ "size": 6443532,
+ "sha256": "9f8074dca49f358dcba2ebcc96ec5bcb693bd0d876483bac306195b6a58a5c66",
  "mirrors": [],
  "desktop": {
-  "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p3/oskolok_b6-p3_desktop.pck",
-  "size": 4517424,
-  "sha256": "674add2ac69220557714deb8dcbdd686d86f9a0d70dad55f1fe80301cdb143c9"
+  "url": "https://github.com/szuzenkov92-prog/oskolok-updates/releases/download/b6-p4/oskolok_b6-p4_desktop.pck",
+  "size": 6443532,
+  "sha256": "9f8074dca49f358dcba2ebcc96ec5bcb693bd0d876483bac306195b6a58a5c66"
  },
  "full_apk_url": "",
- "created": "2026-11-19T15:42:18+0700"
+ "created": "2026-11-19T16:20:06+0700"
 }
